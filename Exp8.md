@@ -83,3 +83,8 @@ This displays the details of the commit `abc1234`, limited to one log entry.
 
 ---
 # Screenshot
+
+![Screenshot 2024-12-11 110930](https://github.com/user-attachments/assets/e1f16daa-ddb1-4285-aebb-0290f16f032f)
+
+![Screenshot 2024-12-11 110949](https://github.com/user-attachments/assets/30ba1123-ad39-43b6-86f3-5c46e6480ffb)
+
