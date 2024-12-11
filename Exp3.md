@@ -13,4 +13,5 @@ cd exp3
 ```bash 
 git clone https://github.com/Lingaraj-Patil/git-lab.git
 ```
-## ScreenShot
+# ScreenShot
+![Screenshot 2024-12-08 184457](https://github.com/user-attachments/assets/8949bd50-42ae-419f-bcfc-feea9512cec7)
