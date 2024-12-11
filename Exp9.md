@@ -1,4 +1,4 @@
-![Screenshot 2024-12-11 111857](https://github.com/user-attachments/assets/a4cd7f13-c781-4ddf-9327-6d74b7cdd4ad)# Experiment 9: 
+# Experiment 9: 
 This guide shows how to initialize a new Git repository, make some commits, and use `git log` to list commits by a specific author within a date range.
 
 ## Steps
