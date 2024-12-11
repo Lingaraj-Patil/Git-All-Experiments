@@ -78,4 +78,8 @@ $ git stash apply
 ## Problem You may face : If you don't first commit and then use stash
 
 
-## ScreenShot
+# ScreenShot
+![Screenshot 2024-12-08 185236](https://github.com/user-attachments/assets/fe9b3327-7e74-4a6a-afab-6d419610ae1c)
+![Screenshot 2024-12-08 185245](https://github.com/user-attachments/assets/85bfae39-895b-47e4-8dcd-6a382d8e1feb)
+![Screenshot 2024-12-08 185601](https://github.com/user-attachments/assets/ee5ed3cb-995c-4a4c-9eb8-586c7988c217)
+
