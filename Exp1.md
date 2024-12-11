@@ -76,4 +76,7 @@ git commit -m "Initial commit"
 With these steps, you've successfully initialized a Git repository, added a file, and committed it. This is the foundation for using Git effectively in your projects.
 
 # ScreenShots
+![Screenshot 2024-12-08 182455](https://github.com/user-attachments/assets/21e11827-1cf0-4686-b917-e088bc1b3224)
+
+
  
