@@ -1,4 +1,4 @@
-# Experiment 7: Git Commands to Create a Lightweight Git Tag (v1.0)
+# Experiment 6: Git Commands to Create a Lightweight Git Tag (v1.0)
 
 ## Prerequisites
 
