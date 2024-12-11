@@ -1,4 +1,4 @@
-![Screenshot 2024-12-11 104640](https://github.com/user-attachments/assets/c25840f7-375e-4fc3-893d-ad8e47698686)# Experiment 7: Git Commands to Create a Lightweight Git Tag (v1.0)
+# Experiment 7: Git Commands to Create a Lightweight Git Tag (v1.0)
 
 ## Prerequisites
 
