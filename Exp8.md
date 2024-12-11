@@ -1,4 +1,4 @@
-# Experiment 7: Git Commands: `git show <commit-id>` and `git log -n 1 <commit-id>`
+# Experiment 8: Git Commands: `git show <commit-id>` and `git log -n 1 <commit-id>`
 
 This README explains the usage of the Git commands `git show <commit-id>` and `git log -n 1 <commit-id>`. These commands are commonly used to inspect commits and retrieve detailed information about them.
 
