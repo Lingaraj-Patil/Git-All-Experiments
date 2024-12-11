@@ -74,4 +74,8 @@ git push origin main --force
 - Always ensure that you have saved your work and are aware of the implications of rebasing and force-pushing.
 - Use `git status` frequently to check the state of your working directory and staging area.
 
-# Screenshots
+# Screenshot
+![Screenshot 2024-12-11 103841](https://github.com/user-attachments/assets/16438d39-3b3a-4e93-bb8e-82a6ed79f7fe)
+
+![Screenshot 2024-12-11 103927](https://github.com/user-attachments/assets/6bb9fe2e-7b9d-4d9e-8723-aa791bc98b51)
+
