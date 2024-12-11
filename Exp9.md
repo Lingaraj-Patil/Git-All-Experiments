@@ -1,4 +1,4 @@
-# Experiment 9: 
+![Screenshot 2024-12-11 111857](https://github.com/user-attachments/assets/a4cd7f13-c781-4ddf-9327-6d74b7cdd4ad)# Experiment 9: 
 This guide shows how to initialize a new Git repository, make some commits, and use `git log` to list commits by a specific author within a date range.
 
 ## Steps
@@ -38,3 +38,8 @@ git log --author="Lingaraj Patil" --since="2024-12-01" --until="2024-12-11" --pr
 - Modify the date range (`--since` and `--until`) as needed.
 
 # ScreenShot
+![Screenshot 2024-12-11 111857](https://github.com/user-attachments/assets/9d31c90a-e94f-433a-a0e3-f2b152bc2a61)
+
+![Screenshot 2024-12-11 111914](https://github.com/user-attachments/assets/e18b2128-35e1-445d-ba36-3608f8968ae6)
+
+
