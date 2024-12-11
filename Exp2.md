@@ -1,4 +1,4 @@
-![Screenshot 2024-12-08 184048](https://github.com/user-attachments/assets/426555d0-2e6c-4b44-bb7d-18d892f10e3b)# Experiment 2: Creating a Repository, Branching, and Merging
+# Experiment 2: Creating a Repository, Branching, and Merging
 
 This guide explains how to perform the following Git operations:
 1. Create a new directory and initialize it as a Git repository.
